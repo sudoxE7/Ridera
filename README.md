@@ -3,7 +3,9 @@
   <img width="300" src="/images/ridera-logo-light.png#gh-light-mode-only">
 </p>
 
-<h1 align="center">Ridera</h1>
+<p align="center">
+  <strong style="font-size:40px;">Ridera</strong>
+</p>
 
 <div align="center">
   <a href="https://github.com/sudoxE7/Ridera/raw/refs/heads/main/releases/v1.0.0-alpha/Ridera-v1.0.0-alpha.apk">

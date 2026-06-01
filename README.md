@@ -25,5 +25,8 @@
 
 ## Screenshots
 <p align="center">
-<img src="/images/screenshot-001.png" width=25%/>
+  <img src="/images/screenshot-001.png" width=25%/>
+  <img src="/images/screenshot-002.png" width=25%/>
+  <img src="/images/screenshot-003.png" width=25%/>
+  <img src="/images/screenshot-004.png" width=25%/>
 </p>

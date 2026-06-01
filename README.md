@@ -32,3 +32,30 @@
 
 ## Features
 - [x] Real-Time GPS Location Tracking
+- [x] Automatic Crash Detection
+- [x] SMS Emergency Alert Notifications
+- [x] Emergency Contact Management
+- [x] LoRa-Based Backup Communication
+- [x] Responder Monitoring Dashboard
+- [x] Interactive Map Visualization
+- [x] Device Binding and Authentication
+- [x] Firebase Cloud Data Synchronization
+- [x] Real-Time Notification System
+- [x] Accident Event Logging and History
+- [x] Rider Profile Management
+- [x] Mobile and Web Platform Integration
+
+## Development Team
+- Andrie De Ocampo
+  Founder/Lead Developer
+- Tjrey Capiral
+  Admin/Web Developer
+- Jhonides Lunggakit
+  Web Developer
+- Arwin Angeles
+  Developer
+- Joshua Gamboa
+  Developer
+
+## Acknowledgements
+The development team would like to express its gratitude to the panelists for their constructive feedback and recommendations, which helped refine and enhance Ridera.

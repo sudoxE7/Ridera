@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="300" src="/images/ridera-logo-dark.png#gh-dark-mode-only">
-  <img width="300" src="/images/ridera-logo-light.png#gh-light-mode-only">
+  <img width="300" src="/images/ridera-logo-dark.png">
 </p>
 
 <div align="center">

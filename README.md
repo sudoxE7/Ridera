@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <h1>Ridera</h1>
+  <h2>Ridera</h2>
 </div>
 
 <div align="center">
@@ -21,6 +21,4 @@
   <h2>Smart Motorcycle Tracking System with Accident Crash Alert and Emergency Response</h2>
 </div>
 
-<div align="center">
-  <h2>Screenshots</h2>
-</div>
+## Screenshots

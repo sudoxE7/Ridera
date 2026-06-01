@@ -1,2 +1,3 @@
-# Ridera
-Smart Motorcycle Tracking System with Accident Crash Alert and Emergency Response
+<p align='center'>
+<img width='300px%' height='300px' src='/images/ridera-logo-dark'#gh-dark-mode-only' >
+</p>

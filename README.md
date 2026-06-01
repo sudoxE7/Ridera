@@ -3,5 +3,5 @@
 </p>
 
 <h1 align="center">
-  Ridera
+  <span style="color:#eb0a1e;">Ridera</span>
 </h1>

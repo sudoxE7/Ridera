@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <b><font size="24dp">Ridera</font></b>
+  <b><font size="99">Ridera</font></b>
 </p>

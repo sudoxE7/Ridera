@@ -29,3 +29,6 @@
   <img src="/images/screenshot-003.png" width=24%/>
   <img src="/images/screenshot-004.png" width=24%/>
 </p>
+
+## Features
+- [x] Real-Time GPS Location Tracking

@@ -24,7 +24,7 @@
 </div>
 
 ## Screenshots
-<p align="left">
+<p align="center">
   <img src="/images/screenshot-001.png" width=24%/>
   <img src="/images/screenshot-002.png" width=24%/>
   <img src="/images/screenshot-003.png" width=24%/>

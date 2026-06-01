@@ -46,16 +46,13 @@
 - [x] Mobile and Web Platform Integration
 
 ## Development Team
-- Andrie De Ocampo
-  Founder/Lead Developer
-- Tjrey Capiral
-  Admin/Web Developer
-- Jhonides Lunggakit
-  Web Developer
-- Arwin Angeles
-  Developer
-- Joshua Gamboa
-  Developer
+| Member | Role |
+|----------|----------|
+| Andrie De Ocampo | Founder & Lead Developer |
+| Tjrey Capiral | Admin Dashboard & Web Developer |
+| Jhonides Lunggakit | Web Developer |
+| Arwin Angeles | Developer |
+| Joshua Gamboa | Developer |
 
 ## Acknowledgements
 The development team would like to express its gratitude to the panelists for their constructive feedback and recommendations, which helped refine and enhance Ridera.

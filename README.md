@@ -4,7 +4,9 @@
 </p>
 
 <div align="center">
-  <h2>Ridera</h2>
+
+# Ridera
+
 </div>
 
 <div align="center">

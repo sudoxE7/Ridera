@@ -21,4 +21,6 @@
   <h2>Smart Motorcycle Tracking System with Accident Crash Alert and Emergency Response</h2>
 </div>
 
-## Screenshots
+<div align="center">
+  <h2>Screenshots</h2>
+</div>

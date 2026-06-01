@@ -15,6 +15,7 @@
 <div align='center'>
   
 <img src="https://img.shields.io/badge/Version-1.0.0--alpha-eb0a1e?style=flat-square">
+<img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square"> <a href="mailto:ridera.contact@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Us-D14836?style=flat-square&logo=gmail&logoColor=white"> </a>
   
   <h2>Smart Motorcycle Tracking System with Accident Crash Alert and Emergency Response</h2>
   

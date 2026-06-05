@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/sudoxE7/Ridera/raw/refs/heads/main/releases/v1.0.0-alpha/Ridera-v1.0.0-alpha.apk">
+  <a href="https://github.com/sudoxE7/Ridera/raw/refs/heads/main/Ridera-v1.0.0-alpha.apk">
     <img alt="Download APK"
       src="https://img.shields.io/badge/Download-APK-eb0a1e?style=for-the-badge&logo=android&logoColor=white">
   </a>

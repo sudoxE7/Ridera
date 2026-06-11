@@ -27,7 +27,7 @@
   <img src="/images/screenshot-001.png" width=24%/>
   <img src="/images/screenshot-002.png" width=24%/>
   <img src="/images/screenshot-003.png" width=24%/>
-  <img src="/images/screenshot-004.png" width=24%/>
+  <img src="/images/screenshot-004-2.png" width=24%/>
 </p>
 
 ## Features

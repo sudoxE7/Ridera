@@ -48,7 +48,7 @@
 ## Development Team
 - Andrie De Ocampo - Founder/Lead Developer
 - Tjrey Capiral - Admin/Web Developer
-- Jhonides Lunggakit = Web Developer
+- Jhonides Lunggakit - Web Developer
 - Arwin Angeles - Developer
 - Joshua Gamboa - Developer
 
